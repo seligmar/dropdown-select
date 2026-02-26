@@ -8,6 +8,8 @@ Many of the most basic components used across web applicatios are more complex t
 
 A note on the underlying html of this page: many demos of this nature fail to pay attention to the underlying structure of the page. This page attempts to avoid that issue by including the appropriate underlying tags.
 
+# Default Behaviours
+
 # Buttons
 
 ## colour

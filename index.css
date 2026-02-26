@@ -7,8 +7,17 @@ body {
   margin: 0em;
 }
 
+.hero-text {
+  text-align: center;
+  color: #f31083;
+  padding-bottom: 5%;
+}
 .dropdown-select-section {
   height: 250px;
+}
+
+.center-dropdowns {
+  text-align: center;
 }
 
 a {
@@ -101,16 +110,7 @@ a {
   }
 }
 
-.hero-text {
-  text-align: center;
-  color: #f31083;
-  /* position: absolute;
-  top: 20%;
-  left: 75%;
-  transform: translate(-50%, -50%); */
-  /* color: black; */
-  padding-bottom: 2%;
-}
+
 
 .link-text {
   /* text-align: center; */
