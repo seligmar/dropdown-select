@@ -26,8 +26,6 @@ a {
   /* border: 1px solid black; */
 }
 
-
-
 .header {
   color: white;
   text-align: center;
@@ -38,6 +36,7 @@ a {
   margin-top: 2%;
   width: 40%;
 }
+
 .songs {
   text-align: center;
 }
